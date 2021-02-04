@@ -1,6 +1,6 @@
 # Introducton
 
-1.$name$:高远哲
+1.$ name $:高远哲
 
 2.$school$：RDFZ_EDP
 
