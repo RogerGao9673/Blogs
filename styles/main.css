@@ -974,3 +974,37 @@ td {
 .hljs-strong {
   font-weight: bold;
 }
+
+      .post-container .post .post-title {
+        text-align: center;
+      }
+      .post-container .post .post-info {
+        text-align: center;
+      }
+      .post-detail .post .post-title {
+        text-align: center;
+      }
+      .post-detail .post .post-info {
+        text-align: center;
+      }
+    
+      body {
+        font-family: Georgia, serif;
+      }
+    
+      .main {
+        background: #862e9c;
+      }
+    
+      body {
+        background: #212529;
+      }
+    
+      a {
+        color: #d6336c;
+      }
+    
+      a:hover {
+        color: #15aabf;
+      }
+    
